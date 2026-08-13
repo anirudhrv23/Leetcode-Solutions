@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0415-add-strings](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->

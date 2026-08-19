@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0415-add-strings) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->

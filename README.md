@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |

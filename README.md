@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0015-3sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |

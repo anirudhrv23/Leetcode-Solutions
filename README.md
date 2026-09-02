@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anirudhrv23/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
